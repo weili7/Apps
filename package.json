@@ -1,0 +1,38 @@
+{
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.4.3",
+    "@react-native-community/async-storage": "github:react-native-community/async-storage",
+    "fast-plist": "^0.1.2",
+    "firebase": "^5.3.1",
+    "glob": "^7.1.4",
+    "react": "16.5.0",
+    "react-native": "^0.55.4",
+    "react-native-camera": "^2.11.1",
+    "react-native-custom-qr-codes": "^2.0.0",
+    "react-native-elements": "^0.19.1",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-geocoding": "^0.3.0",
+    "react-native-gifted-chat": "^0.9.11",
+    "react-native-image-crop-picker": "^0.25.0",
+    "react-native-launch-navigator": "^1.0.5",
+    "react-native-maps": "^0.26.1",
+    "react-native-modalbox": "^1.7.1",
+    "react-native-pie-chart": "^1.0.13",
+    "react-native-qrcode-scanner": "^1.2.1",
+    "react-native-svg": "^9.5.3",
+    "react-native-vector-icons": "^4.6.0",
+    "react-native-wheel-picker": "^1.2.0",
+    "react-navigation": "^2.11.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0",
+    "react-native-gesture-handler": "1.0.16",
+    "schedule": "^0.4.0"
+  },
+  "private": true
+}

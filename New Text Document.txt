@@ -1,0 +1,3 @@
+https://github.com/react-native-community/react-native-camera/issues/2138
+https://github.com/ivpusic/react-native-image-crop-picker/issues/835
+https://github.com/kmagiera/react-native-gesture-handler/issues/642

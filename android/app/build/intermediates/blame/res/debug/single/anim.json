@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5683db880627fae5612be136c74f8ec1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\5e0f54614a41a271323f729879f3ef08\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.2-native.aar\\17d132fc48ab1f10ae6b345e32342ad3\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5683db880627fae5612be136c74f8ec1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_up.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\5e0f54614a41a271323f729879f3ef08\\res\\anim\\catalyst_slide_up.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5683db880627fae5612be136c74f8ec1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\5e0f54614a41a271323f729879f3ef08\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_in.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\5e0f54614a41a271323f729879f3ef08\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5683db880627fae5612be136c74f8ec1\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5683db880627fae5612be136c74f8ec1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5683db880627fae5612be136c74f8ec1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_out.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\5e0f54614a41a271323f729879f3ef08\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ucrop_loader_circle_path.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.2-native.aar\\17d132fc48ab1f10ae6b345e32342ad3\\res\\anim\\ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\5e0f54614a41a271323f729879f3ef08\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5683db880627fae5612be136c74f8ec1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5683db880627fae5612be136c74f8ec1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5683db880627fae5612be136c74f8ec1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5683db880627fae5612be136c74f8ec1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5683db880627fae5612be136c74f8ec1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\5683db880627fae5612be136c74f8ec1\\res\\anim\\abc_tooltip_exit.xml"
+    }
+]

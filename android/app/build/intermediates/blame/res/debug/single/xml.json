@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\node_modules\\react-native-image-crop-picker\\android\\build\\intermediates\\packaged_res\\debug\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\5e0f54614a41a271323f729879f3ef08\\res\\xml\\preferences.xml"
+    }
+]

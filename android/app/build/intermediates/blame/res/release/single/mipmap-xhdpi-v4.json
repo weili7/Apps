@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\EDITH - Copy\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Wei Li\\Programming\\ReactNativeProjects\\EDITH - Copy\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Wei Li\\Programming\\ReactNativeProjects\\EDITH - Copy\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher_round.png",
+        "source": "E:\\Wei Li\\Programming\\ReactNativeProjects\\EDITH - Copy\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,70 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Wei Li\\Programming\\ReactNativeProjects\\EDITH - Copy\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\WheelPicker-1.0.3.aar\\65633410d6740281b900befcb1d9d93d\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,425",
+                        "endLines": "15,29",
+                        "endColumns": "19,19",
+                        "endOffsets": "420,759"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.2-native.aar\\17d132fc48ab1f10ae6b345e32342ad3\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "30,31,32",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "764,818,872",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "813,867,914"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Wei Li\\Programming\\ReactNativeProjects\\EDITH - Copy\\android\\app\\build\\intermediates\\res\\merged\\release\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\WheelPicker-1.0.3.aar\\65633410d6740281b900befcb1d9d93d\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,425",
+                        "endLines": "15,29",
+                        "endColumns": "19,19",
+                        "endOffsets": "420,759"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Wei Li\\.gradle\\caches\\transforms-1\\files-1.1\\ucrop-2.2.2-native.aar\\17d132fc48ab1f10ae6b345e32342ad3\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "30,31,32",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "764,818,872",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "813,867,914"
+                    }
+                }
+            ]
+        }
+    ]
+}

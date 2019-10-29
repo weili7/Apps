@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-launch-navigator] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-launch-navigator\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-camera] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-camera\android\build\intermediates\manifests\full\general\release\AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-wheel-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-wheel-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-svg\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-gesture-handler] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fetch-blob] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:@react-native-community/async-storage] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\@react-native-community\async-storage\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4a978e242c0187fb1963f975793b510d\AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\ucrop-2.2.2-native.aar\17d132fc48ab1f10ae6b345e32342ad3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5683db880627fae5612be136c74f8ec1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\eecc2d0ff8e5239fbcd362953e0b2114\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\cf32bfd65d8f7785adc98ef5ec2c3768\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\83304f23533c81cc36736d0cf1f3320b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\732105e7a3edade53aaf53192b2ebe9e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\049a82a147b953f15e2a673d63b7a377\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\81ace48f9319e1720de87bf6482f445e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\7d73a2eda69043ca973e5bb02f9b72c8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4812a0647d785502d5f55f03ac133eaa\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\05a5e6d924dbf5164068cebb771766b4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\b966e070b0f991a15a4a9ab829060181\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8f46848eae5c7f484f74e621bdc8be77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f8a690abceb0b8a7e096cacef7bd85be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\89c406567a78813463234133c6460d85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b0434d88b6e519e2d139c96389455464\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\88bca67edfdf02d6bcb31d1f9db979f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\02d03f00dbab8e8ad960adea0df2029a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2f67400028f25d1ad64325b48066a495\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a9adb986a59220d63a01501011d73052\AndroidManifest.xml:17:1-22:12
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\WheelPicker-1.0.3.aar\65633410d6740281b900befcb1d9d93d\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\e40b18fb79d6df3d8111b8794fe48bef\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\8832d16b4a3160e94fa7121a1ff70471\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\78c8826f128482d58be3aed7fb9c2be4\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\7c31bffa1919bf1f466594e1c257b039\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\3484d2cc3caca912e9c93566af85960a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\169584a5b50327e612808399ea7e7f51\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\eb5035aba44781e116795a17605a10e9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\4058298f660ba0eff872fd7532e0d429\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e77996ef816423b608dc8f921f493ab3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2c2697daebcbf13cfab97615f4c9f16c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\57a69defc7b35960e20171d49d75cf7d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9c80b8ba1d3d6afc5630051d318c8262\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:2:5-24
+		INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4a978e242c0187fb1963f975793b510d\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4a978e242c0187fb1963f975793b510d\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-fetch-blob] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-fetch-blob] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4a978e242c0187fb1963f975793b510d\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4a978e242c0187fb1963f975793b510d\AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\cf32bfd65d8f7785adc98ef5ec2c3768\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\cf32bfd65d8f7785adc98ef5ec2c3768\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\732105e7a3edade53aaf53192b2ebe9e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\732105e7a3edade53aaf53192b2ebe9e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\049a82a147b953f15e2a673d63b7a377\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\049a82a147b953f15e2a673d63b7a377\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\7d73a2eda69043ca973e5bb02f9b72c8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\7d73a2eda69043ca973e5bb02f9b72c8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4812a0647d785502d5f55f03ac133eaa\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4812a0647d785502d5f55f03ac133eaa\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\05a5e6d924dbf5164068cebb771766b4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\05a5e6d924dbf5164068cebb771766b4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\b966e070b0f991a15a4a9ab829060181\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\b966e070b0f991a15a4a9ab829060181\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\78c8826f128482d58be3aed7fb9c2be4\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\78c8826f128482d58be3aed7fb9c2be4\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\7c31bffa1919bf1f466594e1c257b039\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\7c31bffa1919bf1f466594e1c257b039\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.blank.MainActivity
+ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-launch-navigator] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-launch-navigator\android\build\intermediates\manifests\full\release\AndroidManifest.xml:5:5-43
+MERGED from [:react-native-launch-navigator] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-launch-navigator\android\build\intermediates\manifests\full\release\AndroidManifest.xml:5:5-43
+MERGED from [:react-native-camera] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-camera\android\build\intermediates\manifests\full\general\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-camera\android\build\intermediates\manifests\full\general\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-wheel-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-wheel-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-wheel-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-wheel-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-svg\android\build\intermediates\manifests\full\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-svg\android\build\intermediates\manifests\full\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-gesture-handler] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community/async-storage] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\@react-native-community\async-storage\android\build\intermediates\manifests\full\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community/async-storage] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\@react-native-community\async-storage\android\build\intermediates\manifests\full\release\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4a978e242c0187fb1963f975793b510d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\4a978e242c0187fb1963f975793b510d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\ucrop-2.2.2-native.aar\17d132fc48ab1f10ae6b345e32342ad3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\ucrop-2.2.2-native.aar\17d132fc48ab1f10ae6b345e32342ad3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5683db880627fae5612be136c74f8ec1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5683db880627fae5612be136c74f8ec1\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\eecc2d0ff8e5239fbcd362953e0b2114\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\eecc2d0ff8e5239fbcd362953e0b2114\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\cf32bfd65d8f7785adc98ef5ec2c3768\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\cf32bfd65d8f7785adc98ef5ec2c3768\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\83304f23533c81cc36736d0cf1f3320b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\83304f23533c81cc36736d0cf1f3320b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\732105e7a3edade53aaf53192b2ebe9e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\732105e7a3edade53aaf53192b2ebe9e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\049a82a147b953f15e2a673d63b7a377\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\049a82a147b953f15e2a673d63b7a377\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\81ace48f9319e1720de87bf6482f445e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\81ace48f9319e1720de87bf6482f445e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\7d73a2eda69043ca973e5bb02f9b72c8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\7d73a2eda69043ca973e5bb02f9b72c8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4812a0647d785502d5f55f03ac133eaa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4812a0647d785502d5f55f03ac133eaa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\05a5e6d924dbf5164068cebb771766b4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\05a5e6d924dbf5164068cebb771766b4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\b966e070b0f991a15a4a9ab829060181\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\b966e070b0f991a15a4a9ab829060181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8f46848eae5c7f484f74e621bdc8be77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8f46848eae5c7f484f74e621bdc8be77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f8a690abceb0b8a7e096cacef7bd85be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f8a690abceb0b8a7e096cacef7bd85be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\89c406567a78813463234133c6460d85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\89c406567a78813463234133c6460d85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b0434d88b6e519e2d139c96389455464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b0434d88b6e519e2d139c96389455464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\88bca67edfdf02d6bcb31d1f9db979f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\88bca67edfdf02d6bcb31d1f9db979f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\02d03f00dbab8e8ad960adea0df2029a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\02d03f00dbab8e8ad960adea0df2029a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2f67400028f25d1ad64325b48066a495\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2f67400028f25d1ad64325b48066a495\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a9adb986a59220d63a01501011d73052\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a9adb986a59220d63a01501011d73052\AndroidManifest.xml:20:5-44
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\WheelPicker-1.0.3.aar\65633410d6740281b900befcb1d9d93d\AndroidManifest.xml:8:5-10:41
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\WheelPicker-1.0.3.aar\65633410d6740281b900befcb1d9d93d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\e40b18fb79d6df3d8111b8794fe48bef\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\e40b18fb79d6df3d8111b8794fe48bef\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\8832d16b4a3160e94fa7121a1ff70471\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\8832d16b4a3160e94fa7121a1ff70471\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\78c8826f128482d58be3aed7fb9c2be4\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\78c8826f128482d58be3aed7fb9c2be4\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\3484d2cc3caca912e9c93566af85960a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\3484d2cc3caca912e9c93566af85960a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\169584a5b50327e612808399ea7e7f51\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\169584a5b50327e612808399ea7e7f51\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\eb5035aba44781e116795a17605a10e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\eb5035aba44781e116795a17605a10e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\4058298f660ba0eff872fd7532e0d429\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\4058298f660ba0eff872fd7532e0d429\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e77996ef816423b608dc8f921f493ab3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e77996ef816423b608dc8f921f493ab3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2c2697daebcbf13cfab97615f4c9f16c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2c2697daebcbf13cfab97615f4c9f16c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\57a69defc7b35960e20171d49d75cf7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\57a69defc7b35960e20171d49d75cf7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9c80b8ba1d3d6afc5630051d318c8262\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9c80b8ba1d3d6afc5630051d318c8262\AndroidManifest.xml:20:5-44
+INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-launch-navigator] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-launch-navigator\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:react-native-launch-navigator] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-launch-navigator\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-camera\android\build\intermediates\manifests\full\general\release\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-camera\android\build\intermediates\manifests\full\general\release\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-camera\android\build\intermediates\manifests\full\general\release\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-camera\android\build\intermediates\manifests\full\general\release\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-camera\android\build\intermediates\manifests\full\general\release\AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-camera\android\build\intermediates\manifests\full\general\release\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-camera\android\build\intermediates\manifests\full\general\release\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-camera\android\build\intermediates\manifests\full\general\release\AndroidManifest.xml:15:9-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:10:22-78
+provider#android.support.v4.content.FileProvider
+ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:14:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\node_modules\react-native-image-crop-picker\android\build\intermediates\manifests\full\release\AndroidManifest.xml:24:13-60
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4812a0647d785502d5f55f03ac133eaa\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4812a0647d785502d5f55f03ac133eaa\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4812a0647d785502d5f55f03ac133eaa\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4812a0647d785502d5f55f03ac133eaa\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\b966e070b0f991a15a4a9ab829060181\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\b966e070b0f991a15a4a9ab829060181\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\Wei Li\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\b966e070b0f991a15a4a9ab829060181\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\Wei Li\Programming\ReactNativeProjects\EDITH - Copy\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

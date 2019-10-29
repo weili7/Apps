@@ -1,0 +1,4 @@
+#Tue Oct 29 17:12:46 SGT 2019
+base.0=E\:\\Wei Li\\Programming\\ReactNativeProjects\\Library\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
