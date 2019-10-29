@@ -3,7 +3,8 @@ import { AppState, StyleSheet, Text, ScrollView, View, Alert, Image,Dimensions, 
 import styles from './styles'
 import * as firebase from 'firebase'
 import {Icon, SearchBar, Tile, Button, List, ListItem, Card} from 'react-native-elements';
-import {onFollowPress, updateDetail, moveFirebase, getUserDetails} from '../components/RealTimeDatabase'
+import {onFollowPress, updateDetail, moveFirebase} from '../components/RealTimeDatabase'
+import {getUserDetails} from '../components/Database'
 import {QRCode} from 'react-native-custom-qr-codes'
 
 var {height, width} = Dimensions.get('window')
@@ -48,40 +49,28 @@ class Home extends React.Component {
   getUserDetails(){
     console.log("update")
     var user = firebase.auth().currentUser;
-    var details, name, gend, email, photoUrl, uid, emailVerified;
-
     if (user != null) {
-      name = user.displayName
-      email = user.email;
-      photoUrl = user.photoURL;
-      emailVerified = user.emailVerified;
-      uid = user.uid;  // The user's ID, unique to the Firebase project. Do NOT use
-                   // this value to authenticate with your backend server, if
-                   // you have one. Use User.getToken() instead.
-      console.log("  Email Verified: " + emailVerified);
-      console.log("  Provider-specific UID: " + uid);
-      console.log("  Name: " + name);
-      console.log("  Email: " + email);
-      console.log("  Photo URL: " + photoUrl);
-      this._getDetails(uid)
-      this.setState({
-        name: name,
-        userid: uid,
-        refreshing: false,
-      })
+      this._getDetails(user.uid)
     }
   }
 
-  test = async(uid) => {
-    console.log('testin123')
-  }
-
   _getDetails = async(uid) => {
-    const test = await this.test()
-    console.log(test)
     const detail = await getUserDetails(uid)
     this.setState({
+      name: detail.name,
+      userid: detail.uid,
       points: detail.points,
+      refreshing: false,
+    })
+  }
+
+  getDetails = (reportKey) => {
+    //console.log(userid)
+    return new Promise ((resolve)=>{
+      firebase.database().ref('Reports/'+reportKey).once('value',(data)=>{
+          //console.log(data.val())
+          resolve(data.val())
+      })
     })
   }
 
@@ -122,17 +111,6 @@ class Home extends React.Component {
     }
     );
 //****************** andrew part *****************//
-  }
-
-
-  getDetails = (reportKey) => {
-    //console.log(userid)
-    return new Promise ((resolve)=>{
-      firebase.database().ref('Reports/'+reportKey).once('value',(data)=>{
-          //console.log(data.val())
-          resolve(data.val())
-      })
-    })
   }
 
   getReportDet = async(reportKey) =>{
@@ -338,98 +316,3 @@ class Home extends React.Component {
 }
 
 export default Home;
-
-
-
-  //****************** andrew part *****************//
-/*  getReportsKey=()=> {
-		console.log("length",this.state.reportsMade.length);
-		console.log("title report",this.state.reportsTitle)
-		console.log("title length",this.state.reportsTitle.length)
-
-		if (this.state.reportsMade.length!=0){
-			const result=
-        (<View>
-			       <Text style={{alignItems:'center',alignSelf:'center', marginTop:25}}>No reports submitted</Text>
-			  </View>)
-			return result;
-		}else{
-			console.log("title here",this.state.reportsTitle)
-			var listReportTitle=[];
-			for (var i=0; i<this.state.reportsTitle.length;i++){
-				var listReport={};
-				var keyname=this.state.reportsMade[i];
-				var titleArray=this.state.reportsTitle[i];
-				listReport["title"]=titleArray[keyname];
-				listReport["key"]=this.state.reportsMade[i];
-				listReportTitle.push(listReport);
-			}
-				console.log("listReportTitle",listReportTitle);
-
-				const result=
-        (
-          <View style= {{width:width}}>
-            {this.state.reports.map((report) => (
-              <List>
-                <ListItem
-                  key={report.key}
-                  title={`${report.title.toUpperCase()}`}
-                  onPress={() => this.viewReportDetails(report.key)}
-                />
-
-                <Tile
-                  imageContainerStyle={{opacity:0.6}}
-                  imageSrc={require('../icons/galaxy.jpg')}
-                  icon={{name:'progress-one', type:'entypo'}}
-                  title='PROGRESS:'
-                  caption='Waiting for respond'
-                  titleStyle={{fontSize:13, color:'black', paddingBottom:0, marginBottom:0}}
-                  captionStyle={{fontSize:15, color:'black', paddingTop:0, marginTop:0, fontWeight:'bold'}}
-                  featured
-                  onPress={() => this.viewReportDetails(report.key)}
-                />
-              </List>
-						)).reverse()
-					  }
-				</View>)
-				return result;
-		}
-	}
-*/
-  //****************** andrew part *****************//
-
-  /*      this.setState({reportsMade : reportsArray});
-        //this.setState({reportsTitle : snapshot.val()});
-        console.log(snapshot.val());
-
-        //we cannot straight away push snapshot.val()
-        var store=snapshot.val()
-        var newPost = reportsArray.length - this.state.reportsTitle.length
-
-        if (newPost != 0){
-          for (var i =0; i != newPost; i++){
-          var newobject={};
-          var keyname = reportsArray[(this.state.reportsTitle.length + newPost)]
-          console.log("keyname    :  " +keyname)
-          newobject[keyname]=store[keyname];
-          console.log("newobject",newobject);
-          this.state.reportsTitle.push(snapshot.val());
-        }}
-
-      */
-
-      /*
-        getReportDetails = (reportKey) => {
-      		console.log("getting details")
-      		return new Promise ((resolve, reject)=>{
-      			console.log("getting key")
-      			ReportRef=firebase.database().ref('/Reports/'+reportKey)
-      			GetReportDetail=ReportRef.once("value",(snapshot)=>{
-      				console.log(snapshot.val())
-      				this.setState({returnedDetail:snapshot.val()})
-      				resolve(snapshot.val())
-      				}
-      				)
-      		})
-      	}
-      */
